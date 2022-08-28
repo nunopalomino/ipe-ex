@@ -1,6 +1,6 @@
 # Construa um software que informe as raizes de uma equacao do segundo grau.
 # Sendo que os valores a, b e c sao fornecidos pelo usuario se for possivel
-# Caso contrario apresentar mensafem conveninte para o usuario.
+# Caso contrario apresentar mensagem conveniente para o usuario.
 
 import os
 
