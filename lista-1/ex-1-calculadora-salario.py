@@ -1,7 +1,7 @@
-# Crie um programa que receba o salário bruto, calcule a gratificação (5% do salário), calcule
-# o imposto (7% do salário), calcule o salário líquido (salBruto - imposto + gratif) e exiba o salário líquido
+""" 1) Crie um programa que receba o salário bruto, calcule a gratificação (5% do
+salário), calcule o imposto (7% do salário) , calcule o salário líquido (salBruto
+— imposto + gratif) e exiba o salário líquido """
 
-import os
 from os import system
 
 system("cls")

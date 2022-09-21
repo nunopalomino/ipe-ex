@@ -1,5 +1,5 @@
-#Escrever um programa que recebea dois numeros e o sinal de + ou - e efetue
-# a soma o ou subtracao de acordo com o sinal
+""" 4) Escrever um programa que receba dois números e o sinal de + ou - e
+efetue a soma ou subtração de acordo com o sinal. """
 
 import os
 

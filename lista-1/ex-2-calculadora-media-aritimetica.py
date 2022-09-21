@@ -1,4 +1,7 @@
-# Faca um programa que calcule a media aritimetica entre tres numeros recebidos em tela
+""" 2) Faça um programa que calcule a média aritmética entre três números
+recebidos em tela.
+Média aritimética: soma dos valores dividido pelo número de valores somados.
+"""
 
 import os
 

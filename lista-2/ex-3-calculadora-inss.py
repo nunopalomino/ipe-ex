@@ -1,5 +1,7 @@
-# Faca um software que solicite o numero de horas trsabalhadas, o valor recebido por hora e o percentual de desconto (INSS)
-# de um funcionario que trabalha por hora. O algoritmo devera mostrar o salairo bruto, o valor descontado e o valor do salario liquido
+""" 3) Faça um software que solicite o número de horas trabalhadas, o valor recebido por
+hora e o percentual de desconto (INSS), de um funcionário que trabalhe por hora. O
+algoritmo deverá mostrar o salário bruto, o valor descontado e o valor do salário
+líquido. """
 
 import os
 

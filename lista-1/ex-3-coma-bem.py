@@ -1,5 +1,6 @@
-# Faca um programa que leia em valor representando o gasto realizado por um cliente do
-# restaurante do COMABEM e imprima o valor total a ser pago, considerando os 10% do garcom
+""" 3) Faça um programa que leia um valor representando o gasto realizado por
+um cliente do restaurante COMABEM e imprima o valor total a ser pago,
+considerando os 10% do garçom """
 
 import os
 
